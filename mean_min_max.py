@@ -1,3 +1,4 @@
+#import relevant libraries 
 import numpy
 import matplotlib.pyplot
 
